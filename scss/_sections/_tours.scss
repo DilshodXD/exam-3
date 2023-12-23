@@ -1,0 +1,23 @@
+.tours{
+    
+    margin-left: 200px;
+    &__img{
+        position: relative;
+        top: 150px;
+        left: -160px;
+        z-index: -1;
+    }
+
+    &__title{
+
+        @include title;
+    }
+
+    &__subtitle{
+
+        @include subtitle;
+    }
+
+    
+
+}
