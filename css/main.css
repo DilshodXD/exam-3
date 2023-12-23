@@ -176,4 +176,32 @@
   background-color: #000;
 }
 
+.tours {
+  margin-left: 200px;
+}
+.tours__img {
+  position: relative;
+  top: 150px;
+  left: -160px;
+  z-index: -1;
+}
+.tours__title {
+  color: #1C1C1C;
+  font-family: Roboto;
+  font-size: 44px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  text-transform: uppercase;
+}
+.tours__subtitle {
+  color: #1C1C1C;
+  font-family: Roboto;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+  text-transform: uppercase;
+}
+
 /*# sourceMappingURL=main.css.map */
